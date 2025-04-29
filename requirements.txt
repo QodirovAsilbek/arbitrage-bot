@@ -1,0 +1,5 @@
+python-binance
+bitget
+requests
+python-telegram-bot
+dotenv
